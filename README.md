@@ -1,0 +1,68 @@
+# [Alexandros] – VANILLA SKY（feat. WurtS）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.88] I got my feeling hanging down
+[00:09.65] It's on the tip of my tongue
+[00:11.04] It breaks me down until
+[00:12.40] I wish I'd never met you before
+[00:14.84] The hell is wrong with me?
+[00:16.21] 君を流せなくて
+[00:18.90] You just stuck in my head
+[00:20.25] You just stuck in my head
+[00:22.22] 新しい "なにか" とかいらないし
+[00:25.62] バニラの色はどうせ焼き回し
+[00:29.45] The hell is wrong with you?
+[00:30.99] 君が流れなくて
+[00:33.44] You just stuck in my head
+[00:35.19] You just stuck in my head
+[00:36.94] You just
+[00:37.75] This is a car, number three?
+[00:39.10] それでもう歪んだ "key"
+[00:41.09] 嫌な予感漂うカーペット
+[00:43.15] 君は大層不安だし
+[00:44.45] This is a car, number three?
+[00:46.52] 探すカーペンターズの "Key"
+[00:48.23] 徐々に下がっていく
+[00:49.86] でもエンストして訳分からんのに
+[00:51.75] Vanilla sky don't make me high
+[00:54.56] 君の "なにか" に slowly
+[00:57.11] 取り憑かれていく
+[00:59.26] I don't know what you're talking about
+[01:01.90] 昨日までの空模様に戻れないよ
+[01:06.70] Oh oh
+[01:21.86] イーニーミーニーマイニーモー
+[01:24.28] Catch that girl by dawn
+[01:25.67] I don't want to let her go
+[01:27.32] I'll shut my mouth I know the rule
+[01:29.23] I got my feeling hanging down
+[01:30.47] It's on the tip of my tongue
+[01:32.16] It breaks me down until
+[01:33.25] I wish I'd never met you before
+[01:35.96] The hell is wrong with me?
+[01:37.61] 君を流せなくて
+[01:39.96] You just stuck in my head
+[01:41.68] You just stuck in my head
+[01:43.37] You just
+[01:44.36] This is a car, number three?
+[01:45.33] それでもう歪んだ "Key"
+[01:47.24] 嫌な予感漂うカーペット
+[01:49.20] 君は大層不安だし
+[01:50.88] This is a car, number three?
+[01:52.55] 探すカーペンターズの "Key"
+[01:54.60] 徐々に下がっていく
+[01:56.54] でもエンストして訳分からんのに
+[01:58.39] Vanilla sky don't make me high
+[02:00.82] 君の "なにか" に slowly
+[02:03.47] 取り憑かれていく
+[02:05.75] I don't know what you're talking about
+[02:08.07] 昨日までの空模様に戻れなくたってさ
+[02:15.22] 愛ないし 金ないし 長回し
+[02:19.25] 君なしじゃ生きていけないよ
+[02:22.94] 逃げ場ない 逃げ場ない夢の
+[02:26.33] 見栄はない 見栄はない
+[02:35.45] This is a car, number three?
+[02:38.80] Number four
+[02:40.50] Yeah
+```
