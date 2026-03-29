@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "VANILLA SKY（feat. WurtS）",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2026-03-29T13:27:28.253365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VANILLA SKY (feat. WurtS)",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_VANILLA_SKY_(feat._WurtS)_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. Ecco2k)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/02_Vanilla_Sky_(feat._Ecco2k)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. G-Eazy)",
+      "artist": "Statik Selektah feat. G-Eazy",
+      "has_synced": true,
+      "path": "select/03_Vanilla_Sky_(feat._G-Eazy)_Statik_Selektah_feat._G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. G-Eazy)",
+      "artist": "Statik Selektah",
+      "has_synced": true,
+      "path": "select/04_Vanilla_Sky_(feat._G-Eazy)_Statik_Selektah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. Nimo)",
+      "artist": "Hanybal",
+      "has_synced": true,
+      "path": "select/05_Vanilla_Sky_(feat._Nimo)_Hanybal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vanilla Sky (Feat. sunwoojunga)",
+      "artist": "THAMA feat. Sunwoojunga",
+      "has_synced": true,
+      "path": "select/06_Vanilla_Sky_(Feat._sunwoojunga)_THAMA_feat._Sunwoojunga.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. Han Yo Han)",
+      "artist": "YongYong",
+      "has_synced": true,
+      "path": "select/07_Vanilla_Sky_(feat._Han_Yo_Han)_YongYong.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vanilla Sky feat. Ten Typ Mes",
+      "artist": "Qeubonafide",
+      "has_synced": true,
+      "path": "select/08_Vanilla_Sky_feat._Ten_Typ_Mes_Qeubonafide.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "vanilla sky (feat. ecco2k)",
+      "artist": "bladee",
+      "has_synced": true,
+      "path": "select/09_vanilla_sky_(feat._ecco2k)_bladee.lrc"
+    }
+  ]
+}
